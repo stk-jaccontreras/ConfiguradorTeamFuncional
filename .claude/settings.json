@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(\"/c/Program Files/Python314/python.exe\" -m pip install python-docx)",
+      "Bash(\"/c/Program Files/Python314/python.exe\" \"/c/tmp/convert_insumos.py\")"
+    ]
+  }
+}
